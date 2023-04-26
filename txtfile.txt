@@ -1,0 +1,10 @@
+Raffaello;55
+Merci;60
+Mackintosh;35
+Jewels;45
+Galaxy;7
+Mars & Snickers;30
+Hershey's;10
+Oreo;16
+Lotus;22
+M&Ms;4

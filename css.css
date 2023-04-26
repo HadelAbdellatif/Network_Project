@@ -1,0 +1,55 @@
+/* to make the background color */
+body{
+	background-color: #edf1f6;
+}
+
+/* to make the design of the header */
+.header {
+	height: 50px;
+	background-color: #8abed9;
+	padding: 1%;
+	text-align: center;
+	font-family: "Droid Serif";
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+	justify-content: center;
+
+}
+
+/* to set the color of the text in the header */
+h1{
+	color: white;
+}
+
+/* to set a place to write our names and ids*/
+li {
+	font-size: 110%;
+	font-family: "Droid Serif";
+}
+
+/* to put all the info and img of students in one place*/
+.imgs-container{
+	display: flex;
+	flex-direction: row;
+	margin: 0 auto;
+	justify-content: space-between;
+}
+
+
+/* to make the cover of the student info and pic */
+.bigBox {
+	padding: 5px;
+	border: 2px solid gray;
+	border-radius: 15px;
+	width: 100%;
+	text-align: center;
+	height: 400px;
+	margin-right: 10px;
+}
+
+/* to set the shape and image dimensions */
+img {
+	height: 250px;
+	border-radius: 20px;
+}
